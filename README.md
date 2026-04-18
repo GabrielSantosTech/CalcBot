@@ -5,6 +5,9 @@
 
 **CalcBot Ultimate** é uma aplicação web de cálculo de alta performance, focada em design responsivo e precisão matemática. Construída para usuários que buscam eficiência sem abrir mão de uma estética moderna.
 
+## SITE: https://mteasy.netlify.app/
+
+
 ## 🚀 Funcionalidades
 
 * **Modo Científico Completo:** Funções trigonométricas, logaritmos, exponenciais e muito mais.
