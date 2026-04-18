@@ -21,9 +21,3 @@ O projeto foi desenvolvido com as melhores práticas de desenvolvimento web mode
 * **Lógica Matemática:** [Math.js / Custom Logic]
 * **Ícones:** [Lucide React / FontAwesome]
 * **Estilização:** [Tailwind CSS / Styled Components]
-
-## 📦 Como Instalar e Rodar Localmente
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/seu-usuario/calcbot-ultimate.git](https://github.com/seu-usuario/calcbot-ultimate.git)
