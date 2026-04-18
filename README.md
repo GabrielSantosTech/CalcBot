@@ -2,7 +2,7 @@
 
 O **CalcBot Ultimate** é um chatbot inteligente especializado em cálculos matemáticos. Com uma interface futurista e focada em experiência do usuário (UX), ele permite realizar operações complexas através de linguagem natural ou via um teclado numérico otimizado para dispositivos móveis.
 
-![Preview do CalcBot](https://via.placeholder.com/800x450/080012/820ad1?text=CalcBot+Ultimate+Preview)
+![Preview do CalcBot](https://mteasy.netlify.app/)
 
 ## ✨ Principais Diferenciais
 
@@ -31,4 +31,4 @@ Este projeto foi construído "pure code" para garantir máxima performance e zer
 * Conversão para decimal.
 
 ---
-Desenvolvido por ##Gabriel Santos - Focado em interfaces que encantam.
+Desenvolvido por Gabriel Santos - Focado em interfaces que encantam.
